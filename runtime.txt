@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Données locales (évite d'envoyer tes fichiers Excel/CSV)
+*.xlsx
+*.xls
+*.csv
+*.parquet
+
+# Streamlit
+.streamlit/
+
+# OS / éditeur
+.DS_Store
+Thumbs.db
+.vscode/
